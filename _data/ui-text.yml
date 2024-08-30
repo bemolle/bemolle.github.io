@@ -1169,6 +1169,7 @@ ja: &DEFAULT_JA
   search_placeholder_text    : "検索キーワードを入力してください..."
   search_algolia_no_results  :
   results_found              : "件"
+  back_to_top                : "トップへ戻る"
 ja-JP:
   <<: *DEFAULT_JA
 
