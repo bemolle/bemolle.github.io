@@ -63,9 +63,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "プロフィールの説明"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    - label: "My Keyboard"
+      icon: "fa-regular fa-keyboard"
+      url: "https://happyhackingkb.com/jp/news/snowmodel_types/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
