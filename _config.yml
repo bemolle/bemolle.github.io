@@ -24,6 +24,7 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
+characters_per_minute: 200
 
 # Build settings
 markdown: kramdown
