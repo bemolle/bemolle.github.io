@@ -1136,8 +1136,8 @@ ja: &DEFAULT_JA
   search_label               :
   toc_label                  : "目次"
   ext_link_label             : "リンク"
-  less_than                  :
-  minute_read                :
+  less_than                  : "未満"
+  minute_read                : "分"
   share_on_label             : "共有"
   meta_label                 :
   tags_label                 : "タグ:"
