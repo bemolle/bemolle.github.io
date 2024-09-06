@@ -1,6 +1,6 @@
 ---
 title: "マークアップ: HTMLタグと書式設定"
-date: 2024-09-07T08:00:00-01:00
+date: 2019-04-18T15:34:30-04:00
 categories:
   - Markup
 tags:
@@ -9,7 +9,6 @@ tags:
   - formatting
   - html
   - markup
-toc: true
 ---
 
 A variety of common markup showing how the theme styles them.
