@@ -1,7 +1,6 @@
 ---
 title: "マークアップ: HTMLタグと書式設定"
-header:
-  teaser: "assets/images/markup-syntax-highlighting-teaser.jpg"
+date: 2024-09-07T08:00:00-01:00
 categories:
   - Markup
 tags:
