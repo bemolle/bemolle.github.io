@@ -22,7 +22,8 @@ en: &DEFAULT_EN
   meta_label                 :
   tags_label                 : "Tags:"
   categories_label           : "Categories:"
-  date_label                 : "Updated:"
+  post_date_label            : "Created:"
+  post_modified_date_label   : "Updated:"
   comments_label             : "Leave a comment"
   comments_title             : "Comments"
   more_label                 : "Learn more"
@@ -81,7 +82,8 @@ ja: &DEFAULT_JA
   meta_label                 :
   tags_label                 : "タグ:"
   categories_label           : "カテゴリー:"
-  date_label                 : "更新日時:"
+  post_date_label            : "投稿日時:"
+  post_modified_date_label   : "更新日時:"
   comments_label             : "コメントする"
   comments_title             : "コメント"
   more_label                 : "さらに詳しく"
