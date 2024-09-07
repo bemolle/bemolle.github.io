@@ -1,6 +1,6 @@
 ---
 title: "マークアップ: HTMLタグと書式設定"
-date: 2019-04-18T15:34:30-04:00
+last_modified_at: 2024-09-07
 categories:
   - Markup
 tags:
