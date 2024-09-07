@@ -14,17 +14,17 @@ toc: true
 
 A variety of common markup showing how the theme styles them.
 
-## Header two
+## 見出し2
 
-### Header three
+### 見出し3
 
-#### Header four
+#### 見出し4
 
-##### Header five
+##### 見出し5
 
-###### Header six
+###### 見出し6
 
-## Blockquotes
+## 引用
 
 Single line blockquote:
 
@@ -37,7 +37,7 @@ Multi line blockquote with a cite reference:
 <cite>Steve Jobs</cite> --- Apple Worldwide Developers' Conference, 1997
 {: .small}
 
-## Tables
+## テーブル
 
 | Employee         | Salary |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
@@ -56,7 +56,7 @@ Multi line blockquote with a cite reference:
 |=============================|
 | Foot1   | Foot2   | Foot3   |
 
-## Definition Lists
+## Definition List
 
 Definition List Title
 :   Definition list division.
@@ -70,7 +70,7 @@ Startup
 Do It Live
 :   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
 
-## Unordered Lists (Nested)
+## 箇条書き
 
   * List item one 
       * List item one 
@@ -85,7 +85,7 @@ Do It Live
   * List item three
   * List item four
 
-## Ordered List (Nested)
+## 番号付きリスト
 
   1. List item one 
       1. List item one 
@@ -100,7 +100,7 @@ Do It Live
   3. List item three
   4. List item four
 
-## Forms
+## フォーム
 
 <form>
   <fieldset>
@@ -111,7 +111,7 @@ Do It Live
   </fieldset>
 </form>
 
-## Buttons
+## ボタン
 
 Make any link standout more when applying the `.btn` class.
 
@@ -151,7 +151,7 @@ Make any link standout more when applying the `.btn` class.
 [Small Button](#link){: .btn .btn--primary .btn--small}
 ```
 
-## Notices
+## 通知
 
 **Watch out!** This paragraph of text has been [emphasized](#) with the `{: .notice}` class.
 {: .notice}
@@ -171,7 +171,7 @@ Make any link standout more when applying the `.btn` class.
 **Watch out!** This paragraph of text has been [emphasized](#) with the `{: .notice--danger}` class.
 {: .notice--danger}
 
-## HTML Tags
+## HTMLタグ
 
 ### Address Tag
 
