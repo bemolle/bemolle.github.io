@@ -14,13 +14,14 @@ $paragraph-indent: false !default; // true, false (default)
 $indent-var: 1.3em !default;
 
 /* system typefaces for "ja-JP" locale */
-$jp-font: "Kosugi Maru", "UDDigiKyokasho R", "M PLUS Rounded 1c" !default;
+$ja-jp-text-font: "UDDigiKyokasho R", "Kosugi Maru", "M PLUS Rounded 1c" !default;
+$ja-jp-code-font: "Source Code Pro", "Roboto Mono", monospace !default;
 
 /* system typefaces */
-$serif: $jp-font, Georgia, Times, serif !default;
-$sans-serif: $jp-font, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
+$serif: $ja-jp-text-font, Georgia, Times, serif !default;
+$sans-serif: $ja-jp-text-font, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
-$monospace: "Roboto Mono", Monaco, Consolas, "Lucida Console", monospace !default;
+$monospace: $ja-jp-code-font, "Roboto Mono", Monaco, Consolas, "Lucida Console", monospace !default;
 
 /* sans serif typefaces */
 $sans-serif-narrow: $sans-serif !default;
