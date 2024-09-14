@@ -13,9 +13,12 @@ $global-line-height: 1.6 !default;
 $paragraph-indent: false !default; // true, false (default)
 $indent-var: 1.3em !default;
 
+/* system typefaces for "ja-JP" locale */
+$jp-font: "Kosugi Maru", "UDDigiKyokasho R", "M PLUS Rounded 1c" !default;
+
 /* system typefaces */
-$serif: "Kosugi Maru", "UDDigiKyokasho R", "M PLUS Rounded 1c", Georgia, Times, serif !default;
-$sans-serif: "Kosugi Maru", "UDDigiKyokasho R", "M PLUS Rounded 1c", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
+$serif: $jp-font, Georgia, Times, serif !default;
+$sans-serif: $jp-font, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 $monospace: "Roboto Mono", Monaco, Consolas, "Lucida Console", monospace !default;
 
