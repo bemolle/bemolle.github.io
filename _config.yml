@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "d
 # Site settings
 # ---------------------------------------------------------------------------------------------------------------------------------------------------------
 locale                   : "ja-JP"
-date_format              : "%Y-%m-%d"
+date_format              : "%Y/%m/%d"
 rtl                      : false # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "ブログタイトル(仮)"
 title_separator          : "|"
