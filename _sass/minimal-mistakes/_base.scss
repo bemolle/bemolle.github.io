@@ -148,6 +148,10 @@ button:focus {
 
 /* code */
 
+kbd {
+  font-family: $global-font-family;
+}
+
 tt,
 code,
 samp,
