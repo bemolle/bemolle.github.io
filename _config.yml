@@ -19,7 +19,7 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "d
 locale                   : "ja-JP"
 date_format              : "%Y/%m/%d"
 rtl                      : false # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "HKBD"
+title                    : "Highest Keyboard"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Bemolle Diesis"
@@ -33,7 +33,7 @@ masthead_title           : # overrides the website title displayed in the masthe
 breadcrumbs              : true # true, false (default)
 characters_per_minute    : 500 # this is a custom parameter for "ja-JP". the original parameter is "words_per_minute: 200".
 enable_copy_code_button  : # true, false (default)
-copyright                : # "copyright" name, defaults to site.title
+copyright                : hkbd.jp # "copyright" name, defaults to site.title
 copyright_url            : # "copyright" URL, defaults to site.url
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
