@@ -21,7 +21,7 @@ date_format              : "%Y/%m/%d"
 rtl                      : false # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Highest Keyboard"
 title_separator          : "|"
-subtitle                 : "手に入れろ！至高のキーボード！" # site tagline that appears below site title in masthead
+subtitle                 : "至高のキーボードを求めて" # site tagline that appears below site title in masthead
 name                     : "Bemolle Diesis"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
