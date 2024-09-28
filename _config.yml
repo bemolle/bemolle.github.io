@@ -19,11 +19,11 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "d
 locale                   : "ja-JP"
 date_format              : "%Y/%m/%d"
 rtl                      : false # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Highest Keyboard"
+title                    : "HKBD.jp"
 title_separator          : "|"
-subtitle                 : "至高のキーボードを求めて" # site tagline that appears below site title in masthead
+subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Bemolle Diesis"
-description              : "An amazing website."
+description              : "至高のキーボードとは何か、至高のキーボードたらしめる要素は何なのかを追求し続ける。"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
