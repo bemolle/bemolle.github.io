@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "HKBD.jpについて"
 layout: single
 permalink: /about/
 author_profile: true
